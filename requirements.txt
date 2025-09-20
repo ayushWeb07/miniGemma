@@ -1,0 +1,5 @@
+torch>=2.0.0
+datasets>=2.19.0
+tiktoken>=0.7.0
+tqdm>=4.66.0
+matplotlib>=3.8.0
