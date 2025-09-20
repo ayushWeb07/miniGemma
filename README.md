@@ -88,8 +88,8 @@ GEMMA3_CONFIG = {
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ayushWeb07/miniGemma.git
-cd miniGemma
+git clone https://github.com/ayushWeb07/Gemma3-Implementation.git
+cd Gemma3-Implementation
 pip install -r requirements.txt
 ```
 
